@@ -497,3 +497,7 @@ footer {
     margin: 12px 0;
   }
 }
+
+.treact {
+  cursor:no-drop;
+}
