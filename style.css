@@ -304,7 +304,9 @@ nav {
   margin-bottom: 8px;
 }
 
-
+.bold {
+  font-weight: 700;
+}
 
 /* PROJECTS */
 
