@@ -192,6 +192,7 @@ nav {
   font-size: 20px;
   margin-bottom: 28px;
   animation: fade-up 650ms 600ms backwards;
+  font-weight: 700;
 }
 
 .about-me__link {
